@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta básica blanca",
+    "precio": 249.00,
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+  },
+  {
+    "id": 2,
+    "nombre": "Pantalón de mezclilla azul",
+    "precio": 699.00,
+    "imagen": "https://lamarinamx.vtexassets.com/arquivos/ids/576799-800-800?v=637976682525170000&width=800&height=800&aspect=true"
+  },
+  {
+    "id": 3,
+    "nombre": "Tenis deportivos negros",
+    "precio": 1299.00,
+    "imagen": "https://http2.mlstatic.com/tenis-adidas-para-hombre-color-negro-con-gris-100-originales-100-nuevos-modelo-run80s-D_NQ_NP_988656-MLM32056070060_092019-F.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Sudadera con capucha gris",
+    "precio": 549.00,
+    "imagen": "https://images.jackjones.com/12182537/3508056/001/jackjones-sudaderaconcapuchaliso-gris.jpg?v=944152da9209ddaebf397567c62adf69&format=webp&width=1280&quality=90&key=25-0-3"
+  },
+  {
+    "id": 5,
+    "nombre": "Gorra negra ajustable",
+    "precio": 199.00,
+    "imagen": "https://i.ebayimg.com/images/g/T2YAAeSwXb1o8fAp/s-l1600.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Reloj deportivo digital",
+    "precio": 899.00,
+    "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/27517381-1000-1000/image-26a69b1548334626ac1e581e5169f2bf.jpg?v=638304963152700000"
+  },
+  {
+    "id": 7,
+    "nombre": "Mochila negra urbana",
+    "precio": 799.00,
+    "imagen": "https://i.cadi.pe/wp-content/uploads/2022/06/17004723/Mochila-Impermeable-Morral-Urbana-Usb-Negro.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Lentes de sol",
+    "precio": 349.00,
+    "imagen": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+  },
+  {
+    "id": 9,
+    "nombre": "Camisa de cuadros",
+    "precio": 459.00,
+    "imagen": "https://i.pinimg.com/originals/93/f1/07/93f1072ebaf0b37ae4e3ea3e603fbcdb.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Chamarra ligera",
+    "precio": 999.00,
+    "imagen": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543"
+  },
+  {
+    "id": 11,
+    "nombre": "Cinturón de piel",
+    "precio": 299.00,
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.WB5cz-0DdmzYHtKyy1SSuwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 12,
+    "nombre": "Botas de cuero café",
+    "precio": 1599.00,
+    "imagen": "https://th.bing.com/th/id/R.61e8b099869ace8ac9e4c50d16f6f011?rik=YhMY9ussZ0KqPQ&riu=http%3a%2f%2fwww.botaschicho.com%2fcdn%2fshop%2ffiles%2fDSC01073_7ff6e38e-509c-4e02-b646-784ac192bdc1.jpg%3fv%3d1699906392&ehk=j%2bxLaCnvhGhhoJqaALcfCYd8lOa6l%2f6wjKl4h3X7eeQ%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 13,
+    "nombre": "Calcetas deportivas",
+    "precio": 129.00,
+    "imagen": "https://images-na.ssl-images-amazon.com/images/I/615Gthlo1bL._AC_UL1050_.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Bolso de mano",
+    "precio": 649.00,
+    "imagen": "https://m.media-amazon.com/images/I/71sHRk79ClL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Perfume aroma cítrico",
+    "precio": 899.00,
+    "imagen": "https://elmejorperfume.com/wp-content/uploads/2021/10/Perfume-Acqua-Di-Gio-De-Giorgio-Armani-Para-Hombre-100-ml-Frasco.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Aretes de plata",
+    "precio": 299.00,
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.cl8zrSTZ4-myoZA46n0u6gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 17,
+    "nombre": "Collar dorado",
+    "precio": 399.00,
+    "imagen": "https://i.pinimg.com/originals/23/70/40/2370406b858869a692b4e59bfad0c498.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Gafas de lectura",
+    "precio": 259.00,
+    "imagen": "https://i5.walmartimages.com/asr/de8e962a-cb65-41a3-ac50-448f5104fc50.17b8391ee7cb586cc756e3949deb802e.jpeg"
+  },
+  {
+    "id": 19,
+    "nombre": "Shorts deportivos",
+    "precio": 349.00,
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/370e3d21-aba2-4bda-9b3c-a29caf8d5588.82723ca8bd5730b5790b7e87181893de.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+  },
+  {
+    "id": 20,
+    "nombre": "Sandalias de verano",
+    "precio": 279.00,
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP.5qQACbSsmWpsa8cJWDnXoAHaHV?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 21,
+    "nombre": "Chaqueta de cuero negra",
+    "precio": 1799.00,
+    "imagen": "https://i.etsystatic.com/19033020/r/il/340f07/3144507189/il_fullxfull.3144507189_pc4l.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Bufanda de lana gris",
+    "precio": 299.00,
+    "imagen": "https://i.etsystatic.com/6742766/r/il/839d21/3061042926/il_1080xN.3061042926_ktl3.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Guantes térmicos",
+    "precio": 249.00,
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.6kkUvUIIMzWScHpTZU4WRAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 24,
+    "nombre": "Reloj de lujo plateado",
+    "precio": 2199.00,
+    "imagen": "https://tse3.mm.bing.net/th/id/OIP.baWrwDVq8LbRJEKpU26NHgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  }]
